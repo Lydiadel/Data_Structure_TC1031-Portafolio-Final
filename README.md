@@ -1,1 +1,6 @@
-# Data_Structure_TC1031-Portafolio-Final
+# Data Structure TC1031
+## Author
+Lydia Delgado Uriarte
+
+## Overview 
+Activities done in Programming of Data Structures and Fundamental Algorithms course during my thrid semester.
